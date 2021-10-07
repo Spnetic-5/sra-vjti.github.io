@@ -5,6 +5,7 @@
   "author": "SRA Team",
   "description": "SRA Official Website",
   "license": "UNLICENSED",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
